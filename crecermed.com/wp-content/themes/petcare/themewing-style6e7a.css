@@ -1,0 +1,138 @@
+#masthead.sticky-header {
+    padding: 0;
+    transition: padding 400ms linear;
+    -webkit-transition: padding 400ms linear;
+    -moz-transition: padding 400ms linear;
+    position: fixed;
+    z-index: 99999;
+    margin: 0 auto 30px;
+    width: 100%;
+    top: 0;
+    opacity: .97;
+    -webkit-animation: fadeInDown 500ms;
+    -moz-animation: fadeInDown 500ms;
+    webkit-box-shadow: 0px 1px 6px 0px rgba(68, 68, 68, 0.1);
+    box-shadow: 0px 1px 6px 0px rgba(68, 68, 68, 0.1);
+    -ms-animation: fadeInDown 500ms;
+    -o-animation: fadeInDown 500ms;
+    animation: fadeInDown 500ms;
+}
+
+.admin-bar #masthead.sticky-header {
+    top: 30px;
+}
+
+a,
+.page-header h2.page-title i,
+.social-buttons ul li a:hover,
+a.icon-search-btn:hover,
+.widget ul.nav>li>a:hover,
+.page-header h2.page-title a:hover,
+.meta-category a:hover,
+.page-header span.author,
+.entry-meta li a:hover,
+.blog-share-button ul li a:hover,
+.search-header .span-search,
+#recentcomments .recentcomments a:hover,
+.related-title h2,
+.site-info a,
+.title-bullet-feature:before,
+.services-list-content h4 a:hover,
+.thw-service-btn,
+.services-list-content h2,
+.thw-specialist-outer2:hover .thw-specialist-content .name a,
+.thw-companion-outer .thw-companion-content h3 a:hover,
+.thw-companion-outer:hover .thw-companion-content a.btn-companion,
+.thw-companion-outer-layout2:hover .thw-companion-content a,
+.themewing-intro .themewing-title h2,
+.pet-gallery-intro .themewing-title h2,
+.specility-content .themewing-title h2,
+.tp-caption a.slide-btn-style,
+.top-social .top-social-link a:hover,
+.tp-caption a.slide-btn-transparent,
+.footer-area span.to-top a,
+.readmore-blog,
+.form-submit .btn.btn-primary,
+.widget .widget_title,
+.latest-post-content h4 a:hover,
+.services-list-content:hover h4 a,
+ul.main-menu li ul li a:hover,
+ul.main-menu li ul li.current-menu-item a,
+.header3-box i,
+.topbar-box i {
+    color: #03A9F4;
+}
+
+.entry-image .quote-link,
+.themewing-about-widget .about-widget-btn,
+.themewing-about-social li a:hover,
+.related-title h3:after,
+.navbar-header .navbar-toggle:hover .icon-bar,
+.site-search,
+ul.main-menu>li:before,
+ul.main-menu>li:after,
+.services-list-title:after,
+.specialist-course-control .owl-control,
+.emergency-action h2 strong,
+.emergency-action2 h2 strong,
+.pet-information li span,
+.wpb_wrapper .vc_images_carousel .vc_carousel-indicators li,
+.tp-caption a.slide-btn-transparent:hover,
+.readmore-blog:hover,
+.footer-area span.to-top a:hover,
+.pager li>a:hover,
+.pager li>span:hover,
+.post-navigation ul.pager li>a:hover,
+.post-navigation ul.pager li>span:hover,
+.wpcf7-form-control.wpcf7-submit:hover,
+.form-submit .btn.btn-primary:hover,
+.common-btn:hover,
+.widget.widget_tag_cloud .tagcloud a:hover,
+.site-header3 .menubar-inner,
+.headertransparent .header-common-sticy .site-header.sticky-header,
+.themewing-title-style2.services-tite {
+    background-color: #03A9F4;
+}
+
+input:focus,
+textarea:focus,
+keygen:focus,
+select:focus,
+.meta-category:hover,
+.widget.widget_search .form-control:focus,
+.thw-specialist-outer2:before,
+.wpb_wrapper .vc_images_carousel .vc_carousel-indicators li,
+.wpb_wrapper .vc_images_carousel .vc_carousel-indicators .vc_active,
+.slide-btn-transparent,
+.services-vc-accordion.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header,
+.footer-area span.to-top a,
+.readmore-blog,
+.pager li>a,
+.pager li>span,
+.post-navigation ul.pager li>a,
+.post-navigation ul.pager li>span,
+.wpcf7-form-control.wpcf7-submit,
+.form-submit .btn.btn-primary,
+.common-btn,
+.widget.widget_tag_cloud .tagcloud a,
+.header3-box i,
+.site-header.site-header3 .menubar-inner {
+    border-color: #03A9F4;
+}
+
+a:hover {
+    color: #00aeb3;
+}
+
+.themewing-about-widget .about-widget-btn:hover,
+.specialist-course-control .owl-control:hover {
+    background-color: #00aeb3;
+}
+
+.site-header {
+    background: #ffffff;
+}
+
+.footer-area {
+    background: #03A9F4;
+}
