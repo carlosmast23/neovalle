@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<!-- Mirrored from crecermed.com/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jul 2020 00:03:06 GMT -->
+<!-- Mirrored from crecermed.com/nosotros/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jul 2020 00:02:29 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <!-- /Added by HTTrack -->
@@ -33,7 +33,7 @@
         }
     </style>
 
-    <title>Consejos &#8211; Crecermed</title>
+    <title>Nosotros &#8211; Crecermed</title>
     <script>
         /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
         if (typeof WebFontConfig === "undefined") {
@@ -57,6 +57,7 @@
     <link rel='dns-prefetch' href='http://s.w.org/' />
     <link rel="alternate" type="application/rss+xml" title="Crecermed &raquo; Feed" href="../feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="Crecermed &raquo; RSS de los comentarios" href="../comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Crecermed &raquo; Nosotros RSS de los comentarios" href="feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <script type="text/javascript" data-cfasync="false">
         var mi_version = '7.10.4';
@@ -229,6 +230,7 @@
     <link rel='stylesheet' id='theme-slug-fonts-css' href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic%7COpen+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800italic%2C800&amp;subset=latin%2Clatin-ext'
         type='text/css' media='all' />
     <link rel='stylesheet' id='quick-style-css' href='../wp-content/themes/petcare/themewing-style6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='js_composer_front-css' href='../wp-content/plugins/js_composer/assets/css/js_composer.min40df.css?ver=5.6' type='text/css' media='all' />
     <link rel='stylesheet' id='popup-maker-site-css' href='../wp-content/uploads/pum/pum-site-styles867b.css?generated=1592662267&amp;ver=1.10.2' type='text/css' media='all' />
     <script type='text/javascript'>
         /* <![CDATA[ */
@@ -252,6 +254,10 @@
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 5.2.7" />
+    <link rel="canonical" href="index.html" />
+    <link rel='shortlink' href='../index22b3.html?p=842' />
+    <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed4bae.json?url=https%3A%2F%2Fcrecermed.com%2Fnosotros%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedb27f?url=https%3A%2F%2Fcrecermed.com%2Fnosotros%2F&amp;format=xml" />
 
     <!-- Facebook Pixel Code -->
     <script type='text/javascript'>
@@ -559,10 +565,68 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
         {
             visibility: hidden;
         }
+    </style>
+    <style type="text/css" data-type="vc_shortcodes-custom-css">
+        .vc_custom_1436286986118 {
+            margin-top: 0px !important;
+            margin-bottom: 60px !important;
+            background-color: #ffffff !important;
+        }
+        
+        .vc_custom_1504544086932 {
+            background-position: center !important;
+            background-repeat: no-repeat !important;
+            background-size: cover !important;
+        }
+        
+        .vc_custom_1436287147231 {
+            margin-top: 0px !important;
+            margin-bottom: 60px !important;
+            padding-top: 60px !important;
+            padding-bottom: 60px !important;
+            background-color: #f4f4f4 !important;
+        }
+        
+        .vc_custom_1436286972672 {
+            margin-top: 0px !important;
+            margin-bottom: 60px !important;
+        }
+        
+        .vc_custom_1504546446143 {
+            margin-top: 0px !important;
+            margin-right: 0px !important;
+            margin-bottom: 0px !important;
+            margin-left: 0px !important;
+            padding-top: 35px !important;
+            padding-bottom: 25px !important;
+            background: #69bc1c url(../wp-content/uploads/2017/09/counter-bg11be7f.jpg?id=1146) !important;
+            background-position: center !important;
+            background-repeat: no-repeat !important;
+            background-size: cover !important;
+        }
+        
+        .vc_custom_1436285603365 {
+            padding-right: 50px !important;
+        }
+        
+        .vc_custom_1435896728171 {
+            padding-right: 30px !important;
+            padding-left: 30px !important;
+        }
+        
+        .vc_custom_1435896748122 {
+            padding-right: 30px !important;
+            padding-left: 30px !important;
+        }
+        
+        .vc_custom_1435896763799 {
+            padding-right: 30px !important;
+            padding-left: 30px !important;
+        }
     </style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
 
-<body class="blog wpb-js-composer js-comp-ver-5.6 vc_responsive">
+<body class="page-template-default page page-id-842 headerdefault wpb-js-composer js-comp-ver-5.6 vc_responsive">
 
     <div id="body-inner" class="thwfullwidth">
         <div class="topbarbg">
@@ -668,7 +732,7 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
                                                 <div class="collapse navbar-collapse navbar-responsive-collapse">
                                                     <ul id="main-menu" class="nav navbar-nav main-menu">
                                                         <li id="menu-item-1103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1103"><a href="../index.html">INICIO</a></li>
-                                                        <li id="menu-item-1106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="../yourtext/dr-jaime-sanchez/index.html">Nosotros</a></li>
+                                                        <li id="menu-item-1106" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-842 current_page_item menu-item-1106"><a href="index.html" aria-current="page">Nosotros</a></li>
                                                         <li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="../servicios/index.html">Servicios</a></li>
                                                         <li id="menu-item-1396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1396"><a href="../pacientes-por-primera-vez/index.html">pacientes</a>
                                                             <ul class="sub-menu">
@@ -683,7 +747,7 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
                                                                 <li id="menu-item-1307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1307"><a href="../controles-mensuales/index.html">Controles Mensuales</a></li>
                                                             </ul>
                                                         </li>
-                                                        <li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-740 current_page_item current_page_parent menu-item-1141"><a href="index.html" aria-current="page">Consejos</a></li>
+                                                        <!--<li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="../blog/index.html">Consejos</a></li>-->
                                                         <li id="menu-item-1240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240"><a href="../contacto/index.html">Contacto</a></li>
                                                     </ul>
                                                 </div>
@@ -712,7 +776,7 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
                             <div class="menu-main-menu-container">
                                 <ul id="menu-main-menu" class="off-canvas-list">
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1103"><a href="../index.html">INICIO</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="../yourtext/dr-jaime-sanchez/index.html">Nosotros</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-842 current_page_item menu-item-1106"><a href="index.html" aria-current="page">Nosotros</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="../servicios/index.html">Servicios</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1396"><a href="../pacientes-por-primera-vez/index.html">pacientes</a>
                                         <ul class="sub-menu">
@@ -727,7 +791,7 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1307"><a href="../controles-mensuales/index.html">Controles Mensuales</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-740 current_page_item current_page_parent menu-item-1141"><a href="index.html" aria-current="page">Consejos</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="../blog/index.html">Consejos</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240"><a href="../contacto/index.html">Contacto</a></li>
                                 </ul>
                             </div>
@@ -743,728 +807,419 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
 
 
 
-        <div class="main-content">
+        <div class="main-content page-main-content">
 
 
-            <div class="thw-page-title" style="background-image:url();background-size: cover;background-position: 50% 50%;padding: 50px 0;">
+
+            <div class="thw-page-title" style="background-image:url(../wp-content/uploads/2015/05/fondo-crecermed.jpg);background-size: cover;background-position: 50% 50%;padding: 50px 0;">
                 <div class="container">
                     <div class="thw-page-title-intro themewing-title">
-                        <h2>Blog</h2>
+                        <h2>Nosotros</h2>
                     </div>
                 </div>
             </div>
-            <!--end thw-page-title-->
+
 
             <div class="container">
+
                 <div class="row">
-                    <div id="content" class="col-sm-8">
-                        <div class="main-content-inner">
-
-                            <article id="post-1476" class="post-1476 post type-post status-publish format-standard has-post-thumbnail hentry category-destrezas tag-cuentos-de-navidad tag-fiestas-navidenas tag-navidad">
 
 
 
+                    <div id="content" class="col-sm-12">
+                        <div class="page-content-inner">
+                            <article id="post-842" class="post-842 page type-page status-publish hentry">
 
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../cuentos-de-navidad-para-los-ninos/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2019/12/Navidad-crecer-cuentos-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
+
+                                <div class="entry-content">
+                                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1436286986118 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_images_carousel wpb_content_element vc_clearfix">
+                                                        <div class="wpb_wrapper">
+                                                            <div id="vc_images-carousel-1-1595289683" data-ride="vc_carousel" data-wrap="false" style="width: 100%;" data-interval="0" data-auto-height="yes" data-mode="horizontal" data-partial="false" data-per-view="1" data-hide-on-end="true" class="vc_slide vc_images_carousel">
+                                                                <!-- Indicators -->
+                                                                <ol class="vc_carousel-indicators">
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="0"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="1"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="2"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="3"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="4"></li>
+                                                                </ol>
+                                                                <!-- Wrapper for slides -->
+                                                                <div class="vc_carousel-inner">
+                                                                    <div class="vc_carousel-slideline">
+                                                                        <div class="vc_carousel-slideline-inner">
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed04.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed04.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed04-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed04-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed01.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed01.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed01-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed01-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed05.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed05.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed05-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed05-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed03.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed03.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed03-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed03-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed02.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed02.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed02-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed02-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Controls -->
+                                                                <a class="vc_left vc_carousel-control" href="#vc_images-carousel-1-1595289683" data-slide="prev">
+                                                                    <span class="icon-prev"></span>
+                                                                </a>
+                                                                <a class="vc_right vc_carousel-control" href="#vc_images-carousel-1-1595289683" data-slide="next">
+                                                                    <span class="icon-next"></span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="style-thw-list-item wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner vc_custom_1436285603365">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="themewing-title themewing-title-style2 #000" style="text-align:">
+                                                        <h2 style="text-transform:capitalize;padding:0px 0px 30px 0px;margin:0 auto 0px;font-weight:400;font-size:30px;color:#000000;">¿Quiénes somos?</h2>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p style="text-align: left;">Somos un “Centro  de atención Pediátrico”  que consolida el concepto de atención Integral y humano a través de  personal  altamente capacitado, que cuenta con una  amplia experiencia  y   que
+                                                                vela por la salud de sus pacientes brindado soporte en el desarrollo y crecimiento familiar.  Proporcionamos un esquema de servicios personalizado  a nuestros clientes generando confianza
+                                                                y seguridad a los mismos.</p>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                </header>
+                                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1504544086932 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="shortcode-thw-promo1 ">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left" style="margin:60;"><i class="fa fa-user-md" style="text-align:center;color:#ffffff;font-size:24px;width:60px;border-radius:100px;background:#03A9F4;"></i></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:1px;margin:10px 0px 5px 0px;font-weight:600;font-size:20px;color:;">MISIÓN</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Nuestra misión es brindar servicios pediátricos de calidad y con calidez a través de personal altamente calificado.</p>
 
+                                                        </div>
+                                                    </div>
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="shortcode-thw-promo1 ">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left" style="margin:60;"><i class="fa fa-user-md" style="text-align:center;color:#ffffff;font-size:24px;width:60px;border-radius:100px;background:#03A9F4;"></i></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:1px;margin:10px 0px 5px 0px;font-weight:600;font-size:20px;color:;">VISIÓN</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Ofertar servicios pediátricos integrales que velen por el bienestar de los niños y las familias, distinguiéndonos por el compromiso, calidad e integridad de nuestro personal.</p>
 
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../cuentos-de-navidad-para-los-ninos/index.html" rel="bookmark">Cuentos de Navidad para los niños</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2019-12-04T15:52:10+00:00">4 Dic,  2019</time>
-                                            </li>
-
-
-
-
-
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        La Navidad es una época del año muy especial. Para los niños son días mágicos y para los adultos son momentos de recuerdo y de recuperar ese espíritu infantil que se queda escondido el resto del año. Los cuentos, historias y leyendas de
-                                        <span class="fixed-char"><a class="readmore-blog" href="../cuentos-de-navidad-para-los-ninos/index.html">Seguir leyendo</a></span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="shortcode-thw-promo1 ">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left" style="margin:60;"><i class="fa fa-user-md" style="text-align:center;color:#ffffff;font-size:24px;width:60px;border-radius:100px;background:#03A9F4;"></i></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:1px;margin:10px 0px 5px 0px;font-weight:600;font-size:20px;color:;">VALORES</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Integridad</span></div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Ética</span></div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Calidez</span></div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Transparencia</span></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <!-- .entry-content -->
+                                    <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1436287147231 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="themewing-title themewing-title-style2 #000" style="text-align:">
+                                                        <h2 style="text-transform:capitalize;padding:0px 0px 30px 0px;margin:0 auto 0px;font-weight:400;font-size:30px;color:#000000;">Equipo profesional al cuidado de la salud de tus hijos</h2>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Alto nivel de empatía para entender las necesidades de nuestros pacientes, ofreciendo una experiencia satisfactoria y complaciente, logrando entender el sufrimiento de los pacientes y padres
+                                                                de familia, respetar y ofrecer el servicio en busca de lograr su pronto restablecimiento. Brindar gentilmente mi ayuda en todo momento para lo que necesiten de forma oportuna y comprometida.</p>
 
+                                                        </div>
+                                                    </div>
+                                                    <div class="counter-inline">
+                                                        <div class="facts" style="Padding:0;text-align:center;">
+                                                            <div class="facts-num"><span class="counter" style="font-size:60px;line-height:60px;color:#686868;">456</span></div>
+                                                            <h3 style="margin:10px 0 0;font-weight:400;font-size:18px;line-height:18px;color:#686868;">NIÑOS SANOS</h3>
+                                                        </div>
+                                                    </div>
+                                                    <div class="counter-inline">
+                                                        <div class="facts" style="Padding:0;text-align:center;">
+                                                            <div class="facts-num"><span class="counter" style="font-size:60px;line-height:60px;color:#686868;">658</span></div>
+                                                            <h3 style="margin:10px 0 0;font-weight:400;font-size:18px;line-height:18px;color:#686868;">PADRES TRANQUILOS</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_single_image wpb_content_element vc_align_center">
 
-
-
+                                                        <figure class="wpb_wrapper vc_figure">
+                                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="258" src="../wp-content/uploads/2015/05/canstockphoto7407765-300x258.png" class="vc_single_image-img attachment-medium" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/05/canstockphoto7407765-300x258.png 300w, https://crecermed.com/wp-content/uploads/2015/05/canstockphoto7407765-70x60.png 70w, https://crecermed.com/wp-content/uploads/2015/05/canstockphoto7407765.png 700w"
+                                                                    sizes="(max-width: 300px) 100vw, 300px" /></div>
+                                                        </figure>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_row-full-width vc_clearfix"></div>
+                                    <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1436286972672">
+                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="themewing-title themewing-title-style2 #000" style="text-align:center">
+                                                        <h2 style="text-transform:uppercase;padding:0px 0px 40px 0px;margin:15px auto 0px;font-weight:700;font-size:30px;color:#36ba1b;">NUESTROS MÉDICOS</h2>
+                                                    </div>
+                                                    <div class="specialist-layout-two ">
+                                                        <div class="row row-margin">
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Francis-Ponce-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/Francis-Ponce-1.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/Francis-Ponce-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-francis-carolina-ponce-jara/index.html">Dra. Francis Carolina Ponce Jara</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/08/Rosita-Romero-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/08/Rosita-Romero.jpg 600w, https://crecermed.com/wp-content/uploads/2014/08/Rosita-Romero-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-rosa-romero-de-aguinaga/index.html">Dra. Rosa Romero de Aguinaga</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Mari%cc%81a-Jose%cc%81-Fierro-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/María-José-Fierro-1.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/María-José-Fierro-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/maria-jose-fierro-torres/index.html">Dra. María José Fierro Torres</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Dr-Patricio-Procel-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/Dr-Patricio-Procel.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/Dr-Patricio-Procel-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dr-patricio-procel-eguez/index.html">Dr. Patricio Prócel Egüez</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row row-margin">
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Dayana-Navarro-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/Dayana-Navarro-1.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/Dayana-Navarro-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dayana-navarro/index.html">Dra. Dayana Navarro</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2017/09/Fernando-Aguinaga-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2017/09/Fernando-Aguinaga.jpg 600w, https://crecermed.com/wp-content/uploads/2017/09/Fernando-Aguinaga-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dr-fernando-aguinaga/index.html">Dr. Fernando Aguinaga</a></h3>
+                                                                            <p class="designation">Neoantologia y Perinatología</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2015/06/Dra-gabriela-procel-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/06/Dra-gabriela-procel.jpg 600w, https://crecermed.com/wp-content/uploads/2015/06/Dra-gabriela-procel-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-maria-gabriela-procel/index.html">Dra. María Gabriela Prócel</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2015/06/Vero%cc%81nica-Guzma%cc%81n-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/06/Verónica-Guzmán.jpg 600w, https://crecermed.com/wp-content/uploads/2015/06/Verónica-Guzmán-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-veronica-guzman/index.html">Dra. Verónica Guzmán</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row row-margin">
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/08/Ana-barreno-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/08/Ana-barreno.jpg 600w, https://crecermed.com/wp-content/uploads/2014/08/Ana-barreno-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-ana-margarita-barreno/index.html">Dra. Ana Margarita Barreno</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/07/Sara-Bedo%cc%81n-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/07/Sara-Bedón.jpg 600w, https://crecermed.com/wp-content/uploads/2014/07/Sara-Bedón-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/psic-sara-lucia-bedon/index.html">Psic. Sara Lucía Bedón</a></h3>
+                                                                            <p class="designation">Psicóloga Clínica</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/07/Daniela-Troya-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/07/Daniela-Troya-1.jpg 600w, https://crecermed.com/wp-content/uploads/2014/07/Daniela-Troya-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/psic-daniela-troya-malo/index.html">Psic. Daniela Troya Malo</a></h3>
+                                                                            <p class="designation">Psicología y Psicopatología Perinatal e Infantil</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_row-full-width vc_clearfix"></div>
+                                    <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1504546446143 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner vc_custom_1435896728171">
+                                                <div class="wpb_wrapper">
+                                                    <div class="shortcode-thw-promo1 promo-bottom">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left"><img style="text-align:center;width:48px;height:68px;line-height:68px;" src="../wp-content/uploads/2015/05/map.png" alt="VISÍTANOS"></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:0px;margin:0;font-weight:700;font-size:18px;color:#000000;">VISÍTANOS</h3>
+                                                                    <p style="font-size:24px;color:#ffffff;">Isla Isabela N43 205 y Río Coca</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner vc_custom_1435896748122">
+                                                <div class="wpb_wrapper">
+                                                    <div class="shortcode-thw-promo1 promo-bottom">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:0px;margin:0;font-weight:700;font-size:18px;color:#000000;">ESCRÍBENOS</h3>
+                                                                    <p style="font-size:24px;color:#ffffff;">sjaime.sanchezc@gmail.com</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner vc_custom_1435896763799">
+                                                <div class="wpb_wrapper">
+                                                    <div class="shortcode-thw-promo1 promo-bottom">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left"><img style="" src="../wp-content/uploads/2015/05/phone.png" alt="CITAS MÉDICAS"></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:0px;margin:0;font-weight:700;font-size:18px;color:#000000;">CITAS MÉDICAS</h3>
+                                                                    <p style="font-size:24px;color:#ffffff;">022251529 / 0999139758</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_row-full-width vc_clearfix"></div>
                                 </div>
-                                <!--/.entry-blog -->
-
-
+                                <!-- .entry-content -->
                             </article>
                             <!-- #post-## -->
-
-                            <article id="post-1447" class="post-1447 post type-post status-publish format-standard has-post-thumbnail hentry category-comida category-creciendo-sano category-salud">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../iniciando-la-alimentacion-complementaria/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2019/03/alimentacion-complementaria-crecer-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../iniciando-la-alimentacion-complementaria/index.html" rel="bookmark">Iniciando la alimentación complementaria</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2019-03-22T21:34:44+00:00">22 Mar,  2019</time>
-                                            </li>
-
-
-
-
-
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Alimentar a un bebé es relativamente fácil, ya que su única fuente de nutrición es la leche, pero que sucede cuando él bebé cumple los 6 meses y se deben introducir los alimentos. Muchos padres temen llegar a esta fase de la alimentación del
-                                        <span class="fixed-char"><a class="readmore-blog" href="../iniciando-la-alimentacion-complementaria/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1436" class="post-1436 post type-post status-publish format-standard has-post-thumbnail hentry category-creciendo-sano category-destrezas tag-dos-anos tag-ninos tag-palabras">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../palabras-que-debe-saber-un-nino-de-dos-anos/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2019/02/ninos-palabras-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../palabras-que-debe-saber-un-nino-de-dos-anos/index.html" rel="bookmark">Palabras que debe saber un niño de dos años</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2019-02-18T15:13:42+00:00">18 Feb,  2019</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../palabras-que-debe-saber-un-nino-de-dos-anos/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Investigación realizada en 2012, dice que a los 24 meses un niño debe hablar, como mínimo, 50 palabras, incluyendo estos 25 vocablos.“Leche”, “perro” y “auto” son algunas de las 25 palabras que todo niño debe dominar a los dos años, como parte
-                                        <span class="fixed-char"><a class="readmore-blog" href="../palabras-que-debe-saber-un-nino-de-dos-anos/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1415" class="post-1415 post type-post status-publish format-standard has-post-thumbnail hentry category-creciendo-sano category-destrezas tag-computadora tag-internet tag-ipad tag-juegos tag-ninos tag-tablet tag-tecnologia">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2018/11/nino-tablet-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/index.html" rel="bookmark">La regla 3-6-9-12 para el uso de la tecnología en los niños</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2018-11-05T22:57:52+00:00">5 Nov,  2018</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Los ordenadores, los videojuegos, los smartphones… todos son una dulce tentación para los niños. Les encantan sus infinitas posibilidades para jugar, recibir información, comunicarse… Pero,&nbsp;¿a partir de qué edad se recomienda
-                                        <span class="fixed-char"><a class="readmore-blog" href="../la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1410" class="post-1410 post type-post status-publish format-standard has-post-thumbnail hentry category-comida category-creciendo-sano category-destrezas tag-12-meses tag-adulto tag-bebes tag-desarollo-psicomotor tag-guia tag-objetos">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../guia-para-evaluar-el-desarrollo-psicomotor-de-tu-bebe/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2018/11/bebe%cc%81-12-meses-crecer-desarrollo.psicomotor-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../guia-para-evaluar-el-desarrollo-psicomotor-de-tu-bebe/index.html" rel="bookmark">Guía para evaluar el desarrollo psicomotor de tu bebé</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2018-11-05T17:12:31+00:00">5 Nov,  2018</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../guia-para-evaluar-el-desarrollo-psicomotor-de-tu-bebe/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Bebés de 12 meses Para fomentar una salud mental infantil sana es importante poder evaluar sutilmente los logros que tu bebé deberían estar consiguiendo. El desarrollo Psicomotor de los bebés es crucial ya que no solo evalúa los hitos evolutivos
-                                        <span class="fixed-char"><a class="readmore-blog" href="../guia-para-evaluar-el-desarrollo-psicomotor-de-tu-bebe/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1403" class="post-1403 post type-post status-publish format-standard has-post-thumbnail hentry category-comida category-creciendo-sano">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../como-armar-una-lonchera-saludable/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2018/09/lonchera-saludable-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../como-armar-una-lonchera-saludable/index.html" rel="bookmark">¿Cómo armar una lonchera saludable?</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2018-09-08T00:46:30+00:00">8 Sep,  2018</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../como-armar-una-lonchera-saludable/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        ¡Ya llegó la hora de regreso a clases! No olvides tomar en cuenta estos consejos que debe incluir la Lonchera Saludable Escolar: Alimentos que den energía como : carbohidratos ( galletas, tuberculos, cereales) Alimentos formadores:  proteínas
-                                        <span class="fixed-char"><a class="readmore-blog" href="../como-armar-una-lonchera-saludable/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1398" class="post-1398 post type-post status-publish format-standard has-post-thumbnail hentry category-creciendo-sano category-salud tag-bebe tag-fibre tag-meses tag-temperatura">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../como-puedo-saber-si-mi-bebe-tiene-fiebre/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2018/07/fibre-bebe-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../como-puedo-saber-si-mi-bebe-tiene-fiebre/index.html" rel="bookmark">¿Cómo puedo saber si mi bebé tiene fiebre?</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2018-07-16T20:18:36+00:00">16 Jul,  2018</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../como-puedo-saber-si-mi-bebe-tiene-fiebre/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Si al tocarle la carita o el cuerpo y le nota más caliente de lo normal, probablemente el niño tiene fiebre. La fiebre puede ser un síntoma de enfermedad por alguna infección. Para confirmar su sospecha se sugiere tomar la temperatura con
-                                        <span class="fixed-char"><a class="readmore-blog" href="../como-puedo-saber-si-mi-bebe-tiene-fiebre/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1385" class="post-1385 post type-post status-publish format-standard has-post-thumbnail hentry category-creciendo-sano tag-bebes tag-fda tag-ninos">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../el-medicamento-que-la-fda-pide-no-usar-en-ninos/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2018/06/tooth-kids-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../el-medicamento-que-la-fda-pide-no-usar-en-ninos/index.html" rel="bookmark">El medicamento que la FDA pide NO usar en niños</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2018-06-25T20:38:23+00:00">25 Jun,  2018</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../el-medicamento-que-la-fda-pide-no-usar-en-ninos/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Alerta de la FDA (Administración de Alimentos y Medicamentos de los Estados Unidos) sobre uso de Benzocaína para la dentición La FDA insta a los padres y cuidadores de niños a no usar benzocaína tópica que es parte de algunos medicamentos de
-                                        <span class="fixed-char"><a class="readmore-blog" href="../el-medicamento-que-la-fda-pide-no-usar-en-ninos/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1379" class="post-1379 post type-post status-publish format-standard has-post-thumbnail hentry category-creciendo-sano category-destrezas">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../juegos-que-estimulan-la-imaginacion-de-tu-bebe/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2018/06/juguetes-ninos-crecermed-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../juegos-que-estimulan-la-imaginacion-de-tu-bebe/index.html" rel="bookmark">Juegos que estimulan la imaginación de tu bebé</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2018-06-20T15:38:19+00:00">20 Jun,  2018</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../juegos-que-estimulan-la-imaginacion-de-tu-bebe/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Escrito por la autora y especialista en cuidados infantiles Penelope Leach Mientras tu pequeño está aprendiendo a separar y agrupar objetos, y a manipularlos con la mano, también está comenzando a imaginar objetos y a simular su comportamiento.
-                                        <span class="fixed-char"><a class="readmore-blog" href="../juegos-que-estimulan-la-imaginacion-de-tu-bebe/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-
-                            <article id="post-1374" class="post-1374 post type-post status-publish format-standard has-post-thumbnail hentry category-comida category-creciendo-sano">
-
-
-
-
-                                <header class="entry-header">
-                                    <div class="featured-image">
-                                        <a href="../inicio-de-la-alimentacion-complementaria/index.html" rel="bookmark"><img width="1140" height="580" src="../wp-content/uploads/2018/05/food-1140x580.jpg" class="img-responsive wp-post-image" alt="" /></a>
-                                    </div>
-                                </header>
-
-
-
-                                <div class="entry-blog">
-
-                                    <header class="page-header">
-                                        <span class="author"> By <a href="../author/elements/index.html" title="Entradas de CrecerMed" rel="author">CrecerMed</a></span>
-
-
-                                        <h2 class="page-title">
-                                            <a href="../inicio-de-la-alimentacion-complementaria/index.html" rel="bookmark">Inicio de la alimentación complementaria</a>
-                                        </h2>
-
-                                        <ul class="entry-meta">
-
-                                            <li class="publish-date">
-                                                Posted on <time class="entry-date" datetime="2018-05-08T23:12:27+00:00">8 May,  2018</time>
-                                            </li>
-
-
-
-
-
-                                            <li class="comments-link"><a href="../inicio-de-la-alimentacion-complementaria/index.html#respond">Leave a comment</a> </li>
-
-                                        </ul>
-                                        <!-- .entry-meta -->
-
-                                    </header>
-                                    <!-- .entry-header -->
-
-
-                                    <div class="entry-content">
-                                        Los niños deben iniciar su alimentación no láctea a partir de los 6 meses de edad, si es necesario antes debe ser por indicación de su pediatra. Cada niño tiene comportamiento diferente y da manifestaciones espontaneas de apetito y predilección
-                                        <span class="fixed-char"><a class="readmore-blog" href="../inicio-de-la-alimentacion-complementaria/index.html">Seguir leyendo</a></span>
-                                    </div>
-                                    <!-- .entry-content -->
-
-
-
-
-                                </div>
-                                <!--/.entry-blog -->
-
-
-                            </article>
-                            <!-- #post-## -->
-                            <nav id="nav-below" class="paging-navigation">
-                                <ul class="pager post-nav">
-
-
-                                    <li class="nav-previous previous"><a href="page/2/index.html"><span class="meta-nav">&larr;</span> Older posts</a></li>
-
-
-
-                                </ul>
-                            </nav>
-                            <!-- # -->
                         </div>
-                        <!-- close .main-content-inner -->
                     </div>
-                    <!-- close .col-sm-8 -->
+                    <!-- .col-sm-12 -->
 
-                    <div class="sidebar col-sm-4">
-
-                        <div class="sidebar-inner">
-
-                            <div id="themewing_latest_news_widget-3" class="widget themewing_latest_news_widget">
-                                <h3 class="widget_title">Blog Posts</h3>
-                                <ul class="themewing-latest-post">
-
-
-                                    <li>
-
-                                        <div class="latest-post-items media">
-                                            <div class="latest-post-image pull-left">
-                                                <a href="../cuentos-de-navidad-para-los-ninos/index.html" rel="bookmark" title="Cuentos de Navidad para los niños"><img width="70" height="60" src="../wp-content/uploads/2019/12/Navidad-crecer-cuentos-70x60.jpg" class="img-responsive latest-post-thumb wp-post-image" alt="" /></a>
-                                            </div>
-                                            <div class="latest-post-content media-body">
-                                                <h4><a href="../cuentos-de-navidad-para-los-ninos/index.html" rel="bookmark" title="Cuentos de Navidad para los niños">Cuentos de Navidad para los niños</a></h4>
-                                                <p class="side-meta"><a href="../cuentos-de-navidad-para-los-ninos/index.html" rel="bookmark"><time class="entry-date" datetime="2019-12-04T15:52:10+00:00" > miércoles, Dic 04, 2019</time></a></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="clearfix"></div>
-
-                                    </li>
-
-
-                                    <li>
-
-                                        <div class="latest-post-items media">
-                                            <div class="latest-post-image pull-left">
-                                                <a href="../iniciando-la-alimentacion-complementaria/index.html" rel="bookmark" title="Iniciando la alimentación complementaria"><img width="70" height="60" src="../wp-content/uploads/2019/03/alimentacion-complementaria-crecer-70x60.jpg" class="img-responsive latest-post-thumb wp-post-image" alt="" /></a>
-                                            </div>
-                                            <div class="latest-post-content media-body">
-                                                <h4><a href="../iniciando-la-alimentacion-complementaria/index.html" rel="bookmark" title="Iniciando la alimentación complementaria">Iniciando la alimentación complementaria</a></h4>
-                                                <p class="side-meta"><a href="../iniciando-la-alimentacion-complementaria/index.html" rel="bookmark"><time class="entry-date" datetime="2019-03-22T21:34:44+00:00" > viernes, Mar 22, 2019</time></a></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="clearfix"></div>
-
-                                    </li>
-
-
-                                    <li>
-
-                                        <div class="latest-post-items media">
-                                            <div class="latest-post-image pull-left">
-                                                <a href="../palabras-que-debe-saber-un-nino-de-dos-anos/index.html" rel="bookmark" title="Palabras que debe saber un niño de dos años"><img width="70" height="60" src="../wp-content/uploads/2019/02/ninos-palabras-70x60.jpg" class="img-responsive latest-post-thumb wp-post-image" alt="" /></a>
-                                            </div>
-                                            <div class="latest-post-content media-body">
-                                                <h4><a href="../palabras-que-debe-saber-un-nino-de-dos-anos/index.html" rel="bookmark" title="Palabras que debe saber un niño de dos años">Palabras que debe saber un niño de dos años</a></h4>
-                                                <p class="side-meta"><a href="../palabras-que-debe-saber-un-nino-de-dos-anos/index.html" rel="bookmark"><time class="entry-date" datetime="2019-02-18T15:13:42+00:00" > lunes, Feb 18, 2019</time></a></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="clearfix"></div>
-
-                                    </li>
-
-
-                                    <li>
-
-                                        <div class="latest-post-items media">
-                                            <div class="latest-post-image pull-left">
-                                                <a href="../la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/index.html" rel="bookmark" title="La regla 3-6-9-12 para el uso de la tecnología en los niños"><img width="70" height="60" src="../wp-content/uploads/2018/11/nino-tablet-70x60.jpg" class="img-responsive latest-post-thumb wp-post-image" alt="" /></a>
-                                            </div>
-                                            <div class="latest-post-content media-body">
-                                                <h4><a href="../la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/index.html" rel="bookmark" title="La regla 3-6-9-12 para el uso de la tecnología en los niños">La regla 3-6-9-12 para el uso de la tecnología en los niños</a></h4>
-                                                <p class="side-meta"><a href="../la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/index.html" rel="bookmark"><time class="entry-date" datetime="2018-11-05T22:57:52+00:00" > lunes, Nov 05, 2018</time></a></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="clearfix"></div>
-
-                                    </li>
-
-                                </ul>
-
-                            </div>
-                            <div id="tag_cloud-2" class="widget widget_tag_cloud">
-                                <h3 class="widget_title">Tag Clouds</h3>
-                                <div class="tagcloud"><a href="../tag/12-meses/index.html" class="tag-cloud-link tag-link-40 tag-link-position-1" style="font-size: 8pt;" aria-label="12 meses (1 elemento)">12 meses</a>
-                                    <a href="../tag/adulto/index.html" class="tag-cloud-link tag-link-41 tag-link-position-2" style="font-size: 8pt;" aria-label="adulto (1 elemento)">adulto</a>
-                                    <a href="../tag/bebe/index.html" class="tag-cloud-link tag-link-36 tag-link-position-3" style="font-size: 8pt;" aria-label="bebe (1 elemento)">bebe</a>
-                                    <a href="../tag/bebes/index.html" class="tag-cloud-link tag-link-31 tag-link-position-4" style="font-size: 22pt;" aria-label="bebés (3 elementos)">bebés</a>
-                                    <a href="../tag/comer/index.html" class="tag-cloud-link tag-link-30 tag-link-position-5" style="font-size: 8pt;" aria-label="comer (1 elemento)">comer</a>
-                                    <a href="../tag/computadora/index.html" class="tag-cloud-link tag-link-48 tag-link-position-6" style="font-size: 8pt;" aria-label="computadora (1 elemento)">computadora</a>
-                                    <a href="../tag/corporal/index.html" class="tag-cloud-link tag-link-29 tag-link-position-7" style="font-size: 8pt;" aria-label="corporal (1 elemento)">corporal</a>
-                                    <a href="../tag/cuentos-de-navidad/index.html" class="tag-cloud-link tag-link-52 tag-link-position-8" style="font-size: 8pt;" aria-label="cuentos de navidad (1 elemento)">cuentos de navidad</a>
-                                    <a href="../tag/desarollo-psicomotor/index.html" class="tag-cloud-link tag-link-39 tag-link-position-9" style="font-size: 8pt;" aria-label="desarollo psicomotor (1 elemento)">desarollo psicomotor</a>
-                                    <a href="../tag/dos-anos/index.html" class="tag-cloud-link tag-link-50 tag-link-position-10" style="font-size: 8pt;" aria-label="dos años (1 elemento)">dos años</a>
-                                    <a href="../tag/fda/index.html" class="tag-cloud-link tag-link-32 tag-link-position-11" style="font-size: 8pt;" aria-label="fda (1 elemento)">fda</a>
-                                    <a href="../tag/fibre/index.html" class="tag-cloud-link tag-link-35 tag-link-position-12" style="font-size: 8pt;" aria-label="fibre (1 elemento)">fibre</a>
-                                    <a href="../tag/fiestas-navidenas/index.html" class="tag-cloud-link tag-link-54 tag-link-position-13" style="font-size: 8pt;" aria-label="fiestas navideñas (1 elemento)">fiestas navideñas</a>
-                                    <a href="../tag/guia/index.html" class="tag-cloud-link tag-link-43 tag-link-position-14" style="font-size: 8pt;" aria-label="guía (1 elemento)">guía</a>
-                                    <a href="../tag/internet/index.html" class="tag-cloud-link tag-link-45 tag-link-position-15" style="font-size: 8pt;" aria-label="internet (1 elemento)">internet</a>
-                                    <a href="../tag/ipad/index.html" class="tag-cloud-link tag-link-46 tag-link-position-16" style="font-size: 8pt;" aria-label="ipad (1 elemento)">ipad</a>
-                                    <a href="../tag/juegos/index.html" class="tag-cloud-link tag-link-49 tag-link-position-17" style="font-size: 8pt;" aria-label="juegos (1 elemento)">juegos</a>
-                                    <a href="../tag/meses/index.html" class="tag-cloud-link tag-link-37 tag-link-position-18" style="font-size: 8pt;" aria-label="meses (1 elemento)">meses</a>
-                                    <a href="../tag/navidad/index.html" class="tag-cloud-link tag-link-53 tag-link-position-19" style="font-size: 8pt;" aria-label="navidad (1 elemento)">navidad</a>
-                                    <a href="../tag/ninos/index.html" class="tag-cloud-link tag-link-33 tag-link-position-20" style="font-size: 22pt;" aria-label="niños (3 elementos)">niños</a>
-                                    <a href="../tag/objetos/index.html" class="tag-cloud-link tag-link-42 tag-link-position-21" style="font-size: 8pt;" aria-label="objetos (1 elemento)">objetos</a>
-                                    <a href="../tag/palabras/index.html" class="tag-cloud-link tag-link-51 tag-link-position-22" style="font-size: 8pt;" aria-label="palabras (1 elemento)">palabras</a>
-                                    <a href="../tag/panal/index.html" class="tag-cloud-link tag-link-28 tag-link-position-23" style="font-size: 8pt;" aria-label="pañal (1 elemento)">pañal</a>
-                                    <a href="../tag/tablet/index.html" class="tag-cloud-link tag-link-47 tag-link-position-24" style="font-size: 8pt;" aria-label="tablet (1 elemento)">tablet</a>
-                                    <a href="../tag/tecnologia/index.html" class="tag-cloud-link tag-link-44 tag-link-position-25" style="font-size: 8pt;" aria-label="tecnología (1 elemento)">tecnología</a>
-                                    <a href="../tag/temperatura/index.html" class="tag-cloud-link tag-link-38 tag-link-position-26" style="font-size: 8pt;" aria-label="temperatura (1 elemento)">temperatura</a></div>
-                            </div>
-                        </div>
-                        <!-- close .sidebar-padder -->
-                    </div>
-                    <!-- close .sidebar -->
 
                 </div>
                 <!--/.row -->
@@ -1594,6 +1349,7 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
 
     </div>
     <link rel='stylesheet' id='so-css-petcare-css' href='../wp-content/uploads/so-css/so-css-petcarebe28.css?ver=1507673576' type='text/css' media='all' />
+    <link rel='stylesheet' id='vc_carousel_css-css' href='../wp-content/plugins/js_composer/assets/lib/vc_carousel/css/vc_carousel.min40df.css?ver=5.6' type='text/css' media='all' />
     <script type='text/javascript'>
         /* <![CDATA[ */
         var wpcf7 = {
@@ -1746,9 +1502,12 @@ src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript
     </script>
     <script type='text/javascript' src='../wp-content/uploads/pum/pum-site-scripts9223.js?defer&amp;generated=1592662267&amp;ver=1.10.2'></script>
     <script type='text/javascript' src='../wp-includes/js/wp-embed.min6e7a.js?ver=5.2.7'></script>
+    <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min40df.js?ver=5.6'></script>
+    <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/lib/vc_carousel/js/transition.min40df.js?ver=5.6'></script>
+    <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/lib/vc_carousel/js/vc_carousel.min40df.js?ver=5.6'></script>
 
 </body>
 
-<!-- Mirrored from crecermed.com/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jul 2020 00:03:15 GMT -->
+<!-- Mirrored from crecermed.com/nosotros/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jul 2020 00:02:36 GMT -->
 
 </html>
