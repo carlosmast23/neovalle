@@ -60,7 +60,7 @@ ul.main-menu li ul li a:hover,
 ul.main-menu li ul li.current-menu-item a,
 .header3-box i,
 .topbar-box i {
-    color: #03A9F4;
+    color: #115395;
 }
 
 .entry-image .quote-link,
@@ -91,7 +91,7 @@ ul.main-menu>li:after,
 .site-header3 .menubar-inner,
 .headertransparent .header-common-sticy .site-header.sticky-header,
 .themewing-title-style2.services-tite {
-    background-color: #03A9F4;
+    background-color: #115395;
 }
 
 input:focus,
@@ -117,7 +117,7 @@ select:focus,
 .widget.widget_tag_cloud .tagcloud a,
 .header3-box i,
 .site-header.site-header3 .menubar-inner {
-    border-color: #03A9F4;
+    border-color: #115395;
 }
 
 a:hover {
@@ -134,5 +134,5 @@ a:hover {
 }
 
 .footer-area {
-    background: #03A9F4;
+    background: #115395;
 }
