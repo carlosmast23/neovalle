@@ -1,0 +1,104 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Jul 2020 19:00:58 at https://crecermed.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%u%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://crecermed.com/ -O1 "C:\Mis lugares Web\neovalle2" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:02:04	Error: 	"Method Not Allowed" (405) at link https://crecermed.com/xmlrpc.php (from https://crecermed.com/)
+19:02:04	Error: 	"Not Found" (404) at link themewing.com/wordpress/petcare/wp-content/uploads/2015/05/counter-bg11.jpg?id=1091 (from https://crecermed.com/)
+19:03:30	Error: 	"Not Found" (404) at link https://crecermed.com/1248 (from https://crecermed.com/)
+19:03:31	Error: 	"Not Found" (404) at link https://crecermed.com/1245 (from https://crecermed.com/)
+19:03:31	Error: 	"Not Found" (404) at link https://crecermed.com/622 (from https://crecermed.com/)
+19:03:33	Error: 	"Not Found" (404) at link https://crecermed.com/614 (from https://crecermed.com/)
+19:03:35	Error: 	"Not Found" (404) at link https://crecermed.com/613 (from https://crecermed.com/)
+19:03:36	Error: 	"Not Found" (404) at link https://crecermed.com/612 (from https://crecermed.com/)
+19:03:36	Error: 	"Not Found" (404) at link https://crecermed.com/611 (from https://crecermed.com/)
+19:03:37	Error: 	"Not Found" (404) at link https://crecermed.com/609 (from https://crecermed.com/)
+19:03:39	Error: 	"Not Found" (404) at link https://crecermed.com/608 (from https://crecermed.com/)
+19:03:40	Error: 	"Not Found" (404) at link https://crecermed.com/1570 (from https://crecermed.com/)
+19:03:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://crecermed.com/wp-content/uploads/2014/08/Rosita-Romero-600x560.jpg (from https://crecermed.com/)
+19:04:56	Error: 	"Not Found" (404) at link https://crecermed.com/wp-content/themes/petcare/css/AjaxLoader.gif (from https://crecermed.com/wp-content/themes/petcare/css/owl.theme.css?ver=5.2.7)
+19:04:56	Error: 	"Not Found" (404) at link https://crecermed.com/wp-content/themes/petcare/css/owl.video.play.png (from https://crecermed.com/wp-content/themes/petcare/css/owl.carousel.css?ver=5.2.7)
+19:04:56	Error: 	"Not Found" (404) at link https://crecermed.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+19:04:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://crecermed.com/?p=842 (from https://crecermed.com/nosotros/)
+19:04:56	Warning: 	Moved Permanently for https://crecermed.com/?p=902
+19:04:56	Warning: 	File has moved from https://crecermed.com/?p=902 to https://crecermed.com/servicios/
+19:04:56	Warning: 	Moved Permanently for https://crecermed.com/?p=1250
+19:04:56	Warning: 	File has moved from https://crecermed.com/?p=1250 to https://crecermed.com/pacientes-por-primera-vez/
+19:04:56	Warning: 	Moved Permanently for https://crecermed.com/?p=1313
+19:04:56	Warning: 	File has moved from https://crecermed.com/?p=1313 to https://crecermed.com/agendamiento-de-citas-medicas/
+19:04:56	Warning: 	Moved Permanently for https://crecermed.com/?p=1308
+19:04:56	Warning: 	File has moved from https://crecermed.com/?p=1308 to https://crecermed.com/ninos-enfermos/
+19:04:57	Warning: 	Moved Permanently for https://crecermed.com/?p=2
+19:04:57	Warning: 	File has moved from https://crecermed.com/?p=2 to https://crecermed.com/informacion-y-esquemas-de-vacunas/
+19:04:57	Warning: 	Moved Permanently for https://crecermed.com/?p=1305
+19:04:57	Warning: 	File has moved from https://crecermed.com/?p=1305 to https://crecermed.com/controles-mensuales/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=918
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=918 to https://crecermed.com/contacto/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1509
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1509 to https://crecermed.com/yourtext/dra-francis-carolina-ponce-jara/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1507
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1507 to https://crecermed.com/yourtext/dra-rosa-romero-de-aguinaga/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1506
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1506 to https://crecermed.com/yourtext/maria-jose-fierro-torres/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1505
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1505 to https://crecermed.com/yourtext/dr-patricio-procel-eguez/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1502
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1502 to https://crecermed.com/yourtext/dayana-navarro/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1102
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1102 to https://crecermed.com/yourtext/dr-fernando-aguinaga/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=617
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=617 to https://crecermed.com/yourtext/dra-maria-gabriela-procel/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=616
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=616 to https://crecermed.com/yourtext/dra-veronica-guzman/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1228
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1228 to https://crecermed.com/yourtext/dra-ana-margarita-barreno/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1227
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1227 to https://crecermed.com/yourtext/psic-sara-lucia-bedon/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1433
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1433 to https://crecermed.com/yourtext/psic-daniela-troya-malo/
+19:05:47	Warning: 	Moved Permanently for https://crecermed.com/?p=1476
+19:05:47	Warning: 	File has moved from https://crecermed.com/?p=1476 to https://crecermed.com/cuentos-de-navidad-para-los-ninos/
+19:05:55	Warning: 	Moved Permanently for https://crecermed.com/?p=1447
+19:05:55	Warning: 	File has moved from https://crecermed.com/?p=1447 to https://crecermed.com/iniciando-la-alimentacion-complementaria/
+19:06:06	Warning: 	Moved Permanently for https://crecermed.com/?p=1436
+19:06:06	Warning: 	File has moved from https://crecermed.com/?p=1436 to https://crecermed.com/palabras-que-debe-saber-un-nino-de-dos-anos/
+19:06:06	Warning: 	Moved Permanently for https://crecermed.com/?p=1415
+19:06:06	Warning: 	File has moved from https://crecermed.com/?p=1415 to https://crecermed.com/la-regla-3-6-9-12-para-el-uso-de-la-tecnologia-en-los-ninos/
+19:06:06	Warning: 	Moved Permanently for https://crecermed.com/?p=842
+19:06:06	Warning: 	File has moved from https://crecermed.com/?p=842 to https://crecermed.com/nosotros/
+19:06:06	Warning: 	Moved Permanently for https://crecermed.com/?p=1410
+19:06:06	Warning: 	File has moved from https://crecermed.com/?p=1410 to https://crecermed.com/guia-para-evaluar-el-desarrollo-psicomotor-de-tu-bebe/
+19:06:06	Warning: 	Moved Permanently for https://crecermed.com/?p=1403
+19:06:06	Warning: 	File has moved from https://crecermed.com/?p=1403 to https://crecermed.com/como-armar-una-lonchera-saludable/
+19:06:09	Warning: 	Moved Permanently for https://crecermed.com/?p=1398
+19:06:09	Warning: 	File has moved from https://crecermed.com/?p=1398 to https://crecermed.com/como-puedo-saber-si-mi-bebe-tiene-fiebre/
+19:06:09	Warning: 	Moved Permanently for https://crecermed.com/?p=1385
+19:06:09	Warning: 	File has moved from https://crecermed.com/?p=1385 to https://crecermed.com/el-medicamento-que-la-fda-pide-no-usar-en-ninos/
+19:06:12	Warning: 	Moved Permanently for https://crecermed.com/?p=1379
+19:06:12	Warning: 	File has moved from https://crecermed.com/?p=1379 to https://crecermed.com/juegos-que-estimulan-la-imaginacion-de-tu-bebe/
+19:06:12	Warning: 	Moved Permanently for https://crecermed.com/?p=1374
+19:06:12	Warning: 	File has moved from https://crecermed.com/?p=1374 to https://crecermed.com/inicio-de-la-alimentacion-complementaria/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=698
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=698 to https://crecermed.com/5-razones-para-realizar-una-evaluacion-de-fortalezas/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=1366
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=1366 to https://crecermed.com/la-guarderia-y-el-desarrollo-emocional-de-tu-bebe/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=706
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=706 to https://crecermed.com/lonchera-saludable/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=1354
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=1354 to https://crecermed.com/el-sentido-del-oido-y-sus-cuidados/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=1369
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=1369 to https://crecermed.com/como-educar-a-tus-gemelos/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=708
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=708 to https://crecermed.com/por-que-los-ninos-deben-dormir-temprano/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=1362
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=1362 to https://crecermed.com/el-lenguaje-corporal-de-tu-bebe/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=1352
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=1352 to https://crecermed.com/la-importancia-de-la-lactancia-materna/
+19:06:19	Warning: 	Moved Permanently for https://crecermed.com/?p=702
+19:06:19	Warning: 	File has moved from https://crecermed.com/?p=702 to https://crecermed.com/el-plan-canguro-humanizacion-en-neonatologia/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 21 seconds : 554 links scanned, 498 files written (21963897 bytes overall) [17465893 bytes received at 54410 bytes/sec], 7113671 bytes transferred using HTTP compression in 144 files, ratio 26%, 23.0 requests per connection
+(15 errors, 78 warnings, 0 messages)

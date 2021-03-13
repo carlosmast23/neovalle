@@ -1,0 +1,1512 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<!-- Mirrored from crecermed.com/nosotros/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jul 2020 00:02:29 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<!-- /Added by HTTrack -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="../xmlrpc.php">
+
+    <link rel="shortcut icon" href="../wp-content/uploads/2017/09/favicon-crecermed.png" type="image/x-icon" />
+
+    <style type="text/css">
+        .vc_custom_1441728096711 {
+            margin-top: 0px !important;
+            margin-right: 0px !important;
+            margin-bottom: -60px !important;
+            margin-left: 0px !important;
+            border-bottom-width: 2px !important;
+            padding-top: 35px !important;
+            padding-bottom: 25px !important;
+            background: #2696ff url(../../themewing.com/wordpress/petcare/wp-content/uploads/2015/05/counter-bg11fffe.html?id=1091) !important;
+            background-position: center !important;
+            background-repeat: no-repeat !important;
+            background-size: cover !important;
+            border-bottom-color: #6dbd45 !important;
+            border-bottom-style: solid !important;
+        }
+    </style>
+
+    <title>Nosotros &#8211; Neovalle</title>
+    <script>
+        /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+        if (typeof WebFontConfig === "undefined") {
+            WebFontConfig = new Object();
+        }
+        WebFontConfig['google'] = {
+            families: ['Open+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic', 'PT+Sans:400,700,400italic,700italic']
+        };
+
+        (function() {
+            var wf = document.createElement('script');
+            wf.src = '../../ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(wf, s);
+        })();
+    </script>
+    <link rel='dns-prefetch' href='http://www.google.com/' />
+    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='http://s.w.org/' />
+    <link rel="alternate" type="application/rss+xml" title="Crecermed &raquo; Feed" href="../feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Crecermed &raquo; RSS de los comentarios" href="../comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Crecermed &raquo; Nosotros RSS de los comentarios" href="feed/index.html" />
+    <!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+    <script type="text/javascript" data-cfasync="false">
+        var mi_version = '7.10.4';
+        var mi_track_user = true;
+        var mi_no_track_reason = '';
+
+        var disableStr = 'ga-disable-UA-75138556-1';
+
+        /* Function to detect opted out users */
+        function __gaTrackerIsOptedOut() {
+            return document.cookie.indexOf(disableStr + '=true') > -1;
+        }
+
+        /* Disable tracking if the opt-out cookie exists. */
+        if (__gaTrackerIsOptedOut()) {
+            window[disableStr] = true;
+        }
+
+        /* Opt-out function */
+        function __gaTrackerOptout() {
+            document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+            window[disableStr] = true;
+        }
+
+        if (mi_track_user) {
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '../../www.google-analytics.com/analytics.js', '__gaTracker');
+
+            __gaTracker('create', 'UA-75138556-1', 'auto');
+            __gaTracker('set', 'forceSSL', true);
+            __gaTracker('require', 'displayfeatures');
+            __gaTracker('send', 'pageview');
+        } else {
+            console.log("");
+            (function() {
+                /* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+                var noopfn = function() {
+                    return null;
+                };
+                var noopnullfn = function() {
+                    return null;
+                };
+                var Tracker = function() {
+                    return null;
+                };
+                var p = Tracker.prototype;
+                p.get = noopfn;
+                p.set = noopfn;
+                p.send = noopfn;
+                var __gaTracker = function() {
+                    var len = arguments.length;
+                    if (len === 0) {
+                        return;
+                    }
+                    var f = arguments[len - 1];
+                    if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+                        console.log('Función desactivada __gaTracker(' + arguments[0] + " ....) porque no estás siendo rastreado. " + mi_no_track_reason);
+                        return;
+                    }
+                    try {
+                        f.hitCallback();
+                    } catch (ex) {
+
+                    }
+                };
+                __gaTracker.create = function() {
+                    return new Tracker();
+                };
+                __gaTracker.getByName = noopnullfn;
+                __gaTracker.getAll = function() {
+                    return [];
+                };
+                __gaTracker.remove = noopfn;
+                window['__gaTracker'] = __gaTracker;
+            })();
+        }
+    </script>
+    <!-- / Google Analytics by MonsterInsights -->
+    <script type="text/javascript">
+        window._wpemojiSettings = {
+            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
+            "ext": ".png",
+            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https:\/\/crecermed.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"
+            }
+        };
+        ! function(a, b, c) {
+            function d(a, b) {
+                var c = String.fromCharCode;
+                l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0);
+                var d = k.toDataURL();
+                l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0);
+                var e = k.toDataURL();
+                return d === e
+            }
+
+            function e(a) {
+                var b;
+                if (!l || !l.fillText) return !1;
+                switch (l.textBaseline = "top", l.font = "600 32px Arial", a) {
+                    case "flag":
+                        return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b);
+                    case "emoji":
+                        return b = d([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340]), !b
+                }
+                return !1
+            }
+
+            function f(a) {
+                var c = b.createElement("script");
+                c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c)
+            }
+            var g, h, i, j, k = b.createElement("canvas"),
+                l = k.getContext && k.getContext("2d");
+            for (j = Array("flag", "emoji"), c.supports = {
+                    everything: !0,
+                    everythingExceptFlag: !0
+                }, i = 0; i < j.length; i++) c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]);
+            c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function() {
+                c.DOMReady = !0
+            }, c.supports.everything || (h = function() {
+                c.readyCallback()
+            }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function() {
+                "complete" === b.readyState && c.readyCallback()
+            })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji)))
+        }(window, document, window._wpemojiSettings);
+    </script>
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.min6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='../wp-content/plugins/contact-form-7/includes/css/stylesb62d.css?ver=5.1.6' type='text/css' media='all' />
+    <link rel='stylesheet' id='rs-plugin-settings-css' href='../wp-content/plugins/revslider/public/assets/css/settings4ee1.css?ver=5.3.1.5' type='text/css' media='all' />
+    <style id='rs-plugin-settings-inline-css' type='text/css'>
+        #rs-demo-id {}
+    </style>
+    <link rel='stylesheet' id='wpsf_wpsf-css' href='../wp-content/plugins/wp-spam-fighter/css/wpsfd633.css?ver=0.5.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='themewing-bootstrap-css' href='../wp-content/themes/petcare/css/bootstrap.min6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='themewing-bootstrap-wp-css' href='../wp-content/themes/petcare/css/bootstrap-wp6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='themewing-font-awesome-css' href='../wp-content/themes/petcare/css/font-awesome.min6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='owl-theme-css' href='../wp-content/themes/petcare/css/owl.theme6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='owl-transitions-css' href='../wp-content/themes/petcare/css/owl.transitions6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='owl-carousel-css' href='../wp-content/themes/petcare/css/owl.carousel6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='lightbox-css' href='../wp-content/themes/petcare/css/lightbox6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='nanoscroller-css' href='../wp-content/themes/petcare/css/nanoscroller6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='icomoon-css' href='../wp-content/themes/petcare/css/icomoon6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='themewing-style-css' href='../wp-content/themes/petcare/style6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='theme-slug-fonts-css' href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic%7COpen+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800italic%2C800&amp;subset=latin%2Clatin-ext'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='quick-style-css' href='../wp-content/themes/petcare/themewing-style6e7a.css?ver=5.2.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='js_composer_front-css' href='../wp-content/plugins/js_composer/assets/css/js_composer.min40df.css?ver=5.6' type='text/css' media='all' />
+    <link rel='stylesheet' id='popup-maker-site-css' href='../wp-content/uploads/pum/pum-site-styles867b.css?generated=1592662267&amp;ver=1.10.2' type='text/css' media='all' />
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var monsterinsights_frontend = {
+            "js_events_tracking": "true",
+            "download_extensions": "doc,pdf,ppt,zip,xls,docx,pptx,xlsx",
+            "inbound_paths": "[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]",
+            "home_url": "https:\/\/crecermed.com",
+            "hash_tracking": "false"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='../wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min4f90.js?ver=7.10.4'></script>
+    <script type='text/javascript' src='../wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp'></script>
+    <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+    <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min4ee1.js?ver=5.3.1.5'></script>
+    <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min4ee1.js?ver=5.3.1.5'></script>
+    <script type='text/javascript' src='../../www.google.com/recaptcha/api6e7a.js?ver=5.2.7'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
+    <link rel='https://api.w.org/' href='../wp-json/index.html' />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
+    <meta name="generator" content="WordPress 5.2.7" />
+    <link rel="canonical" href="index.html" />
+    <link rel='shortlink' href='../index22b3.html?p=842' />
+    <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed4bae.json?url=https%3A%2F%2Fcrecermed.com%2Fnosotros%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedb27f?url=https%3A%2F%2Fcrecermed.com%2Fnosotros%2F&amp;format=xml" />
+
+    <!-- Facebook Pixel Code -->
+    <script type='text/javascript'>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window,
+            document, 'script', '../../connect.facebook.net/en_US/fbevents.js');
+    </script>
+    <!-- End Facebook Pixel Code -->
+    <script type='text/javascript'>
+        fbq('init', '746277925840166', [], {
+            "agent": "wordpress-5.2.7-1.8.0"
+        });
+    </script>
+    <script type='text/javascript'>
+        fbq('track', 'PageView', []);
+    </script>
+    <!-- Facebook Pixel Code -->
+    <noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=746277925840166&amp;ev=PageView&amp;noscript=1" />
+</noscript>
+    <!-- End Facebook Pixel Code -->
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+    <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://crecermed.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+    <meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+    <style type="text/css" id="wp-custom-css">
+        .thw-specialist-outer2 {
+            max-height: 230px;
+            overflow-y: hidden;
+        }
+        
+        .thw-specialist-outer2 img {}
+    </style>
+    <style type="text/css" title="dynamic-css" class="options-output">
+        .logo-text {
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 10px;
+            margin-left: 0;
+        }
+        
+        .logo-header-inner {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+        
+        .header-common-topbar {
+            background-color: #f5f5f5;
+        }
+        
+        .header-common-topbar {
+            color: #888888;
+        }
+        
+        .header-common-topbar a {
+            color: #888888;
+        }
+        
+        .topbar-box {
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+        
+        body {
+            background-color: #ffffff;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: right top;
+        }
+        
+        .footer-top {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            background-image: url('../wp-content/uploads/2015/05/fondo-crecermed.jpg');
+        }
+        
+        body {
+            font-family: "Open Sans";
+            line-height: 22px;
+            font-weight: 400;
+            font-style: normal;
+            color: #3f3f3f;
+            font-size: 14px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading body,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading body,
+        {
+            visibility: hidden;
+        }
+        
+        ul.main-menu>li>a {
+            font-family: "Open Sans";
+            line-height: 28px;
+            font-weight: 400;
+            font-style: normal;
+            color: #000000;
+            font-size: 12px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading ul.main-menu>li>a,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading ul.main-menu>li>a,
+        {
+            visibility: hidden;
+        }
+        
+        ul.main-menu li ul li a {
+            font-family: "Open Sans";
+            line-height: 28px;
+            font-weight: 400;
+            font-style: normal;
+            color: #000000;
+            font-size: 12px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading ul.main-menu li ul li a,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading ul.main-menu li ul li a,
+        {
+            visibility: hidden;
+        }
+        
+        h1 {
+            font-family: "PT Sans";
+            line-height: 36px;
+            font-weight: 700;
+            font-style: normal;
+            color: #111;
+            font-size: 36px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading h1,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading h1,
+        {
+            visibility: hidden;
+        }
+        
+        h2 {
+            font-family: "PT Sans";
+            line-height: 28px;
+            font-weight: 700;
+            font-style: normal;
+            color: #111;
+            font-size: 24px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading h2,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading h2,
+        {
+            visibility: hidden;
+        }
+        
+        h3 {
+            font-family: "PT Sans";
+            line-height: 28px;
+            font-weight: 700;
+            font-style: normal;
+            color: #111;
+            font-size: 20px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading h3,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading h3,
+        {
+            visibility: hidden;
+        }
+        
+        h4 {
+            font-family: "PT Sans";
+            line-height: 28px;
+            font-weight: 700;
+            font-style: normal;
+            color: #111;
+            font-size: 16px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading h4,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading h4,
+        {
+            visibility: hidden;
+        }
+        
+        h5 {
+            font-family: "PT Sans";
+            line-height: 28px;
+            font-weight: 700;
+            font-style: normal;
+            color: #111;
+            font-size: 14px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading h5,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading h5,
+        {
+            visibility: hidden;
+        }
+        
+        h6 {
+            font-family: "PT Sans";
+            line-height: 28px;
+            font-weight: 700;
+            font-style: normal;
+            color: #111;
+            font-size: 14px;
+            opacity: 1;
+            visibility: visible;
+            -webkit-transition: opacity 0.24s ease-in-out;
+            -moz-transition: opacity 0.24s ease-in-out;
+            transition: opacity 0.24s ease-in-out;
+        }
+        
+        .wf-loading h6,
+        {
+            opacity: 0;
+        }
+        
+        .ie.wf-loading h6,
+        {
+            visibility: hidden;
+        }
+    </style>
+    <style type="text/css" data-type="vc_shortcodes-custom-css">
+        .vc_custom_1436286986118 {
+            margin-top: 0px !important;
+            margin-bottom: 60px !important;
+            background-color: #ffffff !important;
+        }
+        
+        .vc_custom_1504544086932 {
+            background-position: center !important;
+            background-repeat: no-repeat !important;
+            background-size: cover !important;
+        }
+        
+        .vc_custom_1436287147231 {
+            margin-top: 0px !important;
+            margin-bottom: 60px !important;
+            padding-top: 60px !important;
+            padding-bottom: 60px !important;
+            background-color: #f4f4f4 !important;
+        }
+        
+        .vc_custom_1436286972672 {
+            margin-top: 0px !important;
+            margin-bottom: 60px !important;
+        }
+        
+        .vc_custom_1504546446143 {
+            margin-top: 0px !important;
+            margin-right: 0px !important;
+            margin-bottom: 0px !important;
+            margin-left: 0px !important;
+            padding-top: 35px !important;
+            padding-bottom: 25px !important;
+            background: #69bc1c url(../wp-content/uploads/2017/09/counter-bg11be7f.jpg?id=1146) !important;
+            background-position: center !important;
+            background-repeat: no-repeat !important;
+            background-size: cover !important;
+        }
+        
+        .vc_custom_1436285603365 {
+            padding-right: 50px !important;
+        }
+        
+        .vc_custom_1435896728171 {
+            padding-right: 30px !important;
+            padding-left: 30px !important;
+        }
+        
+        .vc_custom_1435896748122 {
+            padding-right: 30px !important;
+            padding-left: 30px !important;
+        }
+        
+        .vc_custom_1435896763799 {
+            padding-right: 30px !important;
+            padding-left: 30px !important;
+        }
+    </style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+
+<body class="page-template-default page page-id-842 headerdefault wpb-js-composer js-comp-ver-5.6 vc_responsive">
+
+    <div id="body-inner" class="thwfullwidth">
+        <div class="topbarbg">
+            <div class="topbgcolor aqua"></div>
+            <div class="topbgcolor crimson"></div>
+            <div class="topbgcolor green"></div>
+            <div class="topbgcolor indigo"></div>
+            <div class="topbgcolor red"></div>
+            <div class="topbgcolor gold"></div>
+            <div class="topbgcolor pink"></div>
+            <div class="topbgcolor blue"></div>
+            <div class="topbgcolor yellow"></div>
+            <div class="topbgcolor coral"></div>
+        </div>
+
+        <div class="header-common-sticy">
+            <div class="header-common-topbar header2-topbar" style="background-color:#00AA4F;color: white;" >
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="pull-left">
+                                <div class="sharebtn hidden-sm">
+
+                                    <div class="social-buttons">
+                                        <ul>
+
+                                            <li><a class="facebook" href="https://www.facebook.com/Capneo-959983630711524/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+
+                                            <li><a class="instagram" href="https://www.instagram.com/crecermed/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+
+
+
+
+                                        </ul>
+                                    </div>
+
+
+
+
+                                </div>
+                            </div>
+                            <div class="pull-right">
+                                <div class="topbar-box">
+                                    <i class="fa  fa-clock-o"></i>
+                                    <span class="topbar-box-title">Lun - Vie: 9:00 - 18:30 / Sáb: 9:00 - 13:00 </span>
+                                </div>
+
+
+
+                                <div class="topbar-box">
+                                    <i class="fa  fa-envelope-o"></i>
+                                    <span class="topbar-box-title">sjaime.sanchezc@gmail.com</span>
+                                </div>
+
+                                									<div class="topbar-box">
+                                    <a href="https://api.whatsapp.com/send?phone=593987175363&text=Gracias%20por%20comunicarse%20con%20Neovalle%20,%20%C2%BF%20En%20qu%C3%A9%20le%20podemos%20ayudar%20?">
+                                        <i class="fa  fa-phone"></i>
+                                        <span class="topbar-box-title" style="color: white;" >0987175363</span>
+                                    </a>
+                                </div>
+
+
+                            </div>
+
+                            <div class="clearfix"></div>
+                        </div>
+                        <!-- /.col-sm-12 -->
+                    </div>
+                    <!-- /.row -->
+                </div>
+                <!-- /.container -->
+            </div>
+            <!-- /.header2-topbar -->
+            <header id="masthead" class="site-header site-header2">
+                <div class="container">
+                    <div class="menubar-inner">
+                        <div class="row">
+                            <div class="col-sm-3">
+
+                                <div class="logo-header-inner">
+                                    <div>
+
+                                        <a href="../index.html"> <img class="entry-logo img-responsive" src="../wp-content/uploads/2017/09/logo-CRECER.png" alt="logo" title="logo"></a>
+
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="col-sm-9">
+                                <div class="menubar">
+                                    <nav class="main-navigation">
+                                        <div class="site-navigation">
+                                            <div class="site-navigation-inner">
+                                                <div class="navbar-header">
+                                                    <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+                                                    <div class="header-offcanvas hidden-lg hidden-md hidden-sm">
+                                                        <a id="header-trigger" class="trigger" href="#">
+                                                            <span class="icon-bar"></span>
+                                                            <span class="icon-bar"></span>
+                                                            <span class="icon-bar"></span>
+                                                            <span class="icon-bar"></span>
+                                                        </a>
+                                                    </div>
+                                                    <!-- .offcanvas tigger -->
+                                                </div>
+
+                                                <!-- The WordPress Menu goes here -->
+                                                <div class="collapse navbar-collapse navbar-responsive-collapse">
+                                                    <ul id="main-menu" class="nav navbar-nav main-menu">
+                                                        <li id="menu-item-1103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1103"><a href="../index.html">INICIO</a></li>
+                                                        <li id="menu-item-1106" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-842 current_page_item menu-item-1106"><a href="index.html" aria-current="page">Nosotros</a></li>
+                                                        <li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="../servicios/index.html">Servicios</a></li>
+                                                        <li id="menu-item-1396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1396"><a href="../pacientes-por-primera-vez/index.html">pacientes</a>
+                                                            <ul class="sub-menu">
+                                                                <li id="menu-item-1252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1252"><a href="../pacientes-por-primera-vez/index.html">pacientes por primera vez</a></li>
+                                                                <li id="menu-item-1316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="../agendamiento-de-citas-medicas/index.html">Agendamiento de citas médicas</a></li>
+                                                                <li id="menu-item-1310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1310"><a href="../ninos-enfermos/index.html">niños enfermos</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1233"><a href="../informacion-y-esquemas-de-vacunas/index.html">Niños Sanos</a>
+                                                            <ul class="sub-menu">
+                                                                <li id="menu-item-1243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1243"><a href="../informacion-y-esquemas-de-vacunas/index.html">INFORMACIÓN Y ESQUEMAS DE VACUNAS</a></li>
+                                                                <li id="menu-item-1307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1307"><a href="../controles-mensuales/index.html">Controles Mensuales</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <!--<li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="../blog/index.html">Consejos</a></li>-->
+                                                        <li id="menu-item-1240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240"><a href="../contacto/index.html">Contacto</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <!-- .site-navigation-inner -->
+                                        </div>
+                                        <!-- .site-navigation -->
+                                    </nav>
+                                    <!-- .navigation -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.row -->
+                    </div>
+                </div>
+                <!-- /.container -->
+            </header>
+            <!-- /.site-header -->
+        </div>
+
+        <div class="thw-offcanvas hidden-lg hidden-md hidden-sm">
+            <div class="nano">
+                <div class="nano-content">
+                    <div class="thw-offcanvas-in">
+                        <nav id="site-navigation" class="main-navigation offcanvas-menu">
+                            <div class="menu-main-menu-container">
+                                <ul id="menu-main-menu" class="off-canvas-list">
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1103"><a href="../index.html">INICIO</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-842 current_page_item menu-item-1106"><a href="index.html" aria-current="page">Nosotros</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="../servicios/index.html">Servicios</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1396"><a href="../pacientes-por-primera-vez/index.html">pacientes</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1252"><a href="../pacientes-por-primera-vez/index.html">pacientes por primera vez</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="../agendamiento-de-citas-medicas/index.html">Agendamiento de citas médicas</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1310"><a href="../ninos-enfermos/index.html">niños enfermos</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1233"><a href="../informacion-y-esquemas-de-vacunas/index.html">Niños Sanos</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1243"><a href="../informacion-y-esquemas-de-vacunas/index.html">INFORMACIÓN Y ESQUEMAS DE VACUNAS</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1307"><a href="../controles-mensuales/index.html">Controles Mensuales</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="../blog/index.html">Consejos</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240"><a href="../contacto/index.html">Contacto</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        <!-- .main-navigation -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="main-content page-main-content">
+
+
+
+            <div class="thw-page-title" style="background-image:url(../wp-content/uploads/2015/05/fondo-crecermed.jpg);background-size: cover;background-position: 50% 50%;padding: 50px 0;">
+                <div class="container">
+                    <div class="thw-page-title-intro themewing-title">
+                        <h2>Nosotros</h2>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container">
+
+                <div class="row">
+
+
+
+                    <div id="content" class="col-sm-12">
+                        <div class="page-content-inner">
+                            <article id="post-842" class="post-842 page type-page status-publish hentry">
+
+
+                                <div class="entry-content">
+                                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1436286986118 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_images_carousel wpb_content_element vc_clearfix">
+                                                        <div class="wpb_wrapper">
+                                                            <div id="vc_images-carousel-1-1595289683" data-ride="vc_carousel" data-wrap="false" style="width: 100%;" data-interval="0" data-auto-height="yes" data-mode="horizontal" data-partial="false" data-per-view="1" data-hide-on-end="true" class="vc_slide vc_images_carousel">
+                                                                <!-- Indicators -->
+                                                                <ol class="vc_carousel-indicators">
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="0"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="1"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="2"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="3"></li>
+                                                                    <li data-target="#vc_images-carousel-1-1595289683" data-slide-to="4"></li>
+                                                                </ol>
+                                                                <!-- Wrapper for slides -->
+                                                                <div class="vc_carousel-inner">
+                                                                    <div class="vc_carousel-slideline">
+                                                                        <div class="vc_carousel-slideline-inner">
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed04.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed04.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed04-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed04-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed01.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed01.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed01-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed01-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed05.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed05.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed05-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed05-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed03.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed03.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed03-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed03-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                            <div class="vc_item">
+                                                                                <div class="vc_inner">
+                                                                                    <img width="900" height="750" src="../wp-content/uploads/2015/07/crecermed02.jpg" class="attachment-full" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/07/crecermed02.jpg 900w, https://crecermed.com/wp-content/uploads/2015/07/crecermed02-300x250.jpg 300w, https://crecermed.com/wp-content/uploads/2015/07/crecermed02-768x640.jpg 768w"
+                                                                                        sizes="(max-width: 900px) 100vw, 900px" /> </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Controls -->
+                                                                <a class="vc_left vc_carousel-control" href="#vc_images-carousel-1-1595289683" data-slide="prev">
+                                                                    <span class="icon-prev"></span>
+                                                                </a>
+                                                                <a class="vc_right vc_carousel-control" href="#vc_images-carousel-1-1595289683" data-slide="next">
+                                                                    <span class="icon-next"></span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="style-thw-list-item wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner vc_custom_1436285603365">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="themewing-title themewing-title-style2 #000" style="text-align:">
+                                                        <h2 style="text-transform:capitalize;padding:0px 0px 30px 0px;margin:0 auto 0px;font-weight:400;font-size:30px;color:#000000;">¿Quiénes somos?</h2>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p style="text-align: left;">Somos un “Centro  de atención Pediátrico”  que consolida el concepto de atención Integral y humano a través de  personal  altamente capacitado, que cuenta con una  amplia experiencia  y   que
+                                                                vela por la salud de sus pacientes brindado soporte en el desarrollo y crecimiento familiar.  Proporcionamos un esquema de servicios personalizado  a nuestros clientes generando confianza
+                                                                y seguridad a los mismos.</p>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1504544086932 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="shortcode-thw-promo1 ">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left" style="margin:60;"><i class="fa fa-user-md" style="text-align:center;color:#ffffff;font-size:24px;width:60px;border-radius:100px;background:#115395;"></i></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:1px;margin:10px 0px 5px 0px;font-weight:600;font-size:20px;color:;">MISIÓN</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Nuestra misión es brindar servicios pediátricos de calidad y con calidez a través de personal altamente calificado.</p>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="shortcode-thw-promo1 ">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left" style="margin:60;"><i class="fa fa-user-md" style="text-align:center;color:#ffffff;font-size:24px;width:60px;border-radius:100px;background:#115395;"></i></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:1px;margin:10px 0px 5px 0px;font-weight:600;font-size:20px;color:;">VISIÓN</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Ofertar servicios pediátricos integrales que velen por el bienestar de los niños y las familias, distinguiéndonos por el compromiso, calidad e integridad de nuestro personal.</p>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                                                    <div class="shortcode-thw-promo1 ">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left" style="margin:60;"><i class="fa fa-user-md" style="text-align:center;color:#ffffff;font-size:24px;width:60px;border-radius:100px;background:#115395;"></i></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:1px;margin:10px 0px 5px 0px;font-weight:600;font-size:20px;color:;">VALORES</h3>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Integridad</span></div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Ética</span></div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Calidez</span></div>
+                                                    <div class="tw-bullet-feature " style="display:inline-block;margin-bottom:10px;margin-top:20px;"><span class="title-bullet-feature">Transparencia</span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1436287147231 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="themewing-title themewing-title-style2 #000" style="text-align:">
+                                                        <h2 style="text-transform:capitalize;padding:0px 0px 30px 0px;margin:0 auto 0px;font-weight:400;font-size:30px;color:#000000;">Equipo profesional al cuidado de la salud de tus hijos</h2>
+                                                    </div>
+                                                    <div class="wpb_text_column wpb_content_element ">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Alto nivel de empatía para entender las necesidades de nuestros pacientes, ofreciendo una experiencia satisfactoria y complaciente, logrando entender el sufrimiento de los pacientes y padres
+                                                                de familia, respetar y ofrecer el servicio en busca de lograr su pronto restablecimiento. Brindar gentilmente mi ayuda en todo momento para lo que necesiten de forma oportuna y comprometida.</p>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="counter-inline">
+                                                        <div class="facts" style="Padding:0;text-align:center;">
+                                                            <div class="facts-num"><span class="counter" style="font-size:60px;line-height:60px;color:#686868;">456</span></div>
+                                                            <h3 style="margin:10px 0 0;font-weight:400;font-size:18px;line-height:18px;color:#686868;">NIÑOS SANOS</h3>
+                                                        </div>
+                                                    </div>
+                                                    <div class="counter-inline">
+                                                        <div class="facts" style="Padding:0;text-align:center;">
+                                                            <div class="facts-num"><span class="counter" style="font-size:60px;line-height:60px;color:#686868;">658</span></div>
+                                                            <h3 style="margin:10px 0 0;font-weight:400;font-size:18px;line-height:18px;color:#686868;">PADRES TRANQUILOS</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_single_image wpb_content_element vc_align_center">
+
+                                                        <figure class="wpb_wrapper vc_figure">
+                                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="258" src="../wp-content/uploads/2015/05/canstockphoto7407765-300x258.png" class="vc_single_image-img attachment-medium" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/05/canstockphoto7407765-300x258.png 300w, https://crecermed.com/wp-content/uploads/2015/05/canstockphoto7407765-70x60.png 70w, https://crecermed.com/wp-content/uploads/2015/05/canstockphoto7407765.png 700w"
+                                                                    sizes="(max-width: 300px) 100vw, 300px" /></div>
+                                                        </figure>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_row-full-width vc_clearfix"></div>
+                                    <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1436286972672">
+                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div class="themewing-title themewing-title-style2 #000" style="text-align:center">
+                                                        <h2 style="text-transform:uppercase;padding:0px 0px 40px 0px;margin:15px auto 0px;font-weight:700;font-size:30px;color:#36ba1b;">NUESTROS MÉDICOS</h2>
+                                                    </div>
+                                                    <div class="specialist-layout-two ">
+                                                        <div class="row row-margin">
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Francis-Ponce-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/Francis-Ponce-1.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/Francis-Ponce-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-francis-carolina-ponce-jara/index.html">Dra. Francis Carolina Ponce Jara</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/08/Rosita-Romero-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/08/Rosita-Romero.jpg 600w, https://crecermed.com/wp-content/uploads/2014/08/Rosita-Romero-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-rosa-romero-de-aguinaga/index.html">Dra. Rosa Romero de Aguinaga</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Mari%cc%81a-Jose%cc%81-Fierro-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/María-José-Fierro-1.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/María-José-Fierro-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/maria-jose-fierro-torres/index.html">Dra. María José Fierro Torres</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Dr-Patricio-Procel-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/Dr-Patricio-Procel.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/Dr-Patricio-Procel-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dr-patricio-procel-eguez/index.html">Dr. Patricio Prócel Egüez</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row row-margin">
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2020/06/Dayana-Navarro-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2020/06/Dayana-Navarro-1.jpg 600w, https://crecermed.com/wp-content/uploads/2020/06/Dayana-Navarro-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dayana-navarro/index.html">Dra. Dayana Navarro</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2017/09/Fernando-Aguinaga-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2017/09/Fernando-Aguinaga.jpg 600w, https://crecermed.com/wp-content/uploads/2017/09/Fernando-Aguinaga-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dr-fernando-aguinaga/index.html">Dr. Fernando Aguinaga</a></h3>
+                                                                            <p class="designation">Neoantologia y Perinatología</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2015/06/Dra-gabriela-procel-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/06/Dra-gabriela-procel.jpg 600w, https://crecermed.com/wp-content/uploads/2015/06/Dra-gabriela-procel-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-maria-gabriela-procel/index.html">Dra. María Gabriela Prócel</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2015/06/Vero%cc%81nica-Guzma%cc%81n-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2015/06/Verónica-Guzmán.jpg 600w, https://crecermed.com/wp-content/uploads/2015/06/Verónica-Guzmán-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-veronica-guzman/index.html">Dra. Verónica Guzmán</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row row-margin">
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/08/Ana-barreno-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/08/Ana-barreno.jpg 600w, https://crecermed.com/wp-content/uploads/2014/08/Ana-barreno-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/dra-ana-margarita-barreno/index.html">Dra. Ana Margarita Barreno</a></h3>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/07/Sara-Bedo%cc%81n-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/07/Sara-Bedón.jpg 600w, https://crecermed.com/wp-content/uploads/2014/07/Sara-Bedón-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/psic-sara-lucia-bedon/index.html">Psic. Sara Lucía Bedón</a></h3>
+                                                                            <p class="designation">Psicóloga Clínica</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-3 col-sm-6">
+                                                                <div class="specialist-layout2 ">
+                                                                    <div class="thw-specialist-outer2"><img width="600" height="560" src="../wp-content/uploads/2014/07/Daniela-Troya-1-600x560.jpg" class="img-responsive wp-post-image" alt="" srcset="https://crecermed.com/wp-content/uploads/2014/07/Daniela-Troya-1.jpg 600w, https://crecermed.com/wp-content/uploads/2014/07/Daniela-Troya-1-300x280.jpg 300w"
+                                                                            sizes="(max-width: 600px) 100vw, 600px" />
+                                                                        <div class="thw-specialist-content">
+                                                                            <h3 class="name"><a href="../yourtext/psic-daniela-troya-malo/index.html">Psic. Daniela Troya Malo</a></h3>
+                                                                            <p class="designation">Psicología y Psicopatología Perinatal e Infantil</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_row-full-width vc_clearfix"></div>
+                                    <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1504546446143 vc_row-has-fill">
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner vc_custom_1435896728171">
+                                                <div class="wpb_wrapper">
+                                                    <div class="shortcode-thw-promo1 promo-bottom">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left"><img style="text-align:center;width:48px;height:68px;line-height:68px;" src="../wp-content/uploads/2015/05/map.png" alt="VISÍTANOS"></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:0px;margin:0;font-weight:700;font-size:18px;color:#000000;">VISÍTANOS</h3>
+                                                                    <p style="font-size:24px;color:#ffffff;">Isla Isabela N43 205 y Río Coca</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner vc_custom_1435896748122">
+                                                <div class="wpb_wrapper">
+                                                    <div class="shortcode-thw-promo1 promo-bottom">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:0px;margin:0;font-weight:700;font-size:18px;color:#000000;">ESCRÍBENOS</h3>
+                                                                    <p style="font-size:24px;color:#ffffff;">sjaime.sanchezc@gmail.com</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="wpb_column vc_column_container vc_col-sm-4">
+                                            <div class="vc_column-inner vc_custom_1435896763799">
+                                                <div class="wpb_wrapper">
+                                                    <div class="shortcode-thw-promo1 promo-bottom">
+                                                        <div class="thw-promo1 clearfix">
+                                                            <div class="media">
+                                                                <div class="pull-left"><img style="" src="../wp-content/uploads/2015/05/phone.png" alt="CITAS MÉDICAS"></div>
+                                                                <div class="media-body">
+                                                                    <h3 style="letter-spacing:0px;margin:0;font-weight:700;font-size:18px;color:#000000;">CITAS MÉDICAS</h3>
+                                                                    <p style="font-size:24px;color:#ffffff;">022251529 / 0999139758</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_row-full-width vc_clearfix"></div>
+                                </div>
+                                <!-- .entry-content -->
+                            </article>
+                            <!-- #post-## -->
+                        </div>
+                    </div>
+                    <!-- .col-sm-12 -->
+
+
+                </div>
+                <!--/.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.main-content -->
+
+        <div id="footer-top" class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4 footer-widget">
+                        <div id="themewing_about_widget-2" class="widget themewing_about_widget">
+                            <div class="themewing-about-widget">
+
+
+                                <div class="themewing-about-intro">
+                                    <p>Siguenos en nuestras redes sociales</p>
+                                </div>
+
+
+
+                                <ul class="themewing-about-social">
+                                    <li><a class="facebook" href="https://www.facebook.com/Capneo-959983630711524" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+
+
+
+                                    <li><a class="instagram" href="https://www.instagram.com/crecermed/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+
+
+
+                                </ul>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-sm-4 footer-widget">
+                        <div id="themewing_schedule_widget-2" class="widget themewing_schedule_widget">
+                            <h3 class="widget_title">Horarios de Atención</h3>
+
+                            <div class="tw-schedule-shortcode">
+                                <div class="themewing-about-intro">*Previa cita</div>
+
+                                <ul class="tw-schedule">
+                                    <li class="clearfix">
+                                        <span>Lun - Vie</span><span class="tw-time">09h00 – 18h30</span>
+                                    </li>
+
+                                    <li class="clearfix">
+                                        <span>Sáb</span><span class="tw-time">09h00 – 13h00</span>
+                                    </li>
+
+                                    <li class="clearfix">
+                                        <span>Emergencias</span><span class="tw-time">24 horas</span>
+                                    </li>
+
+
+
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-sm-4 footer-widget">
+                        <div id="media_image-2" class="widget widget_media_image">
+<h3 class="widget_title">Formas de pago</h3>
+                            <p>Aceptamos tarjetas de <strong>crédito y débito</strong></p><img width="379" height="394" src="wp-content/uploads/2020/06/logos.png" class="image wp-image-1513  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://crecermed.com/wp-content/uploads/2020/06/logos.png 379w, https://crecermed.com/wp-content/uploads/2020/06/logos-289x300.png 289w"
+                                sizes="(max-width: 379px) 100vw, 379px" /></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div id="footer-area" class="footer-area">
+            <div class="container">
+                <div class="row">
+                    <div class="site-info text-center col-sm-12">
+                        Todos los derechos reservados Neovalle© 2020 | Desarrollado por: Codesoft </div>
+                    <!-- close .site-info -->
+
+                    <span class="to-top">	
+								<a id="gototop" class="gototop" href="#"><i class="fa fa-chevron-up"></i></a><!--#gototop-->
+							</span>
+                </div>
+            </div>
+        </div>
+        <!--/.footer-area -->
+    </div>
+    <!--/.body-inner -->
+    <div id="pum-1524" class="pum pum-overlay pum-theme-1518 pum-theme-tema-por-defecto popmake-overlay pum-click-to-close auto_open click_open" data-popmake="{&quot;id&quot;:1524,&quot;slug&quot;:&quot;home&quot;,&quot;theme_id&quot;:1518,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-1524&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 day&quot;,&quot;path&quot;:true}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;pum-1524&quot;],&quot;delay&quot;:&quot;3000&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}"
+        role="dialog" aria-hidden="true">
+
+        <div id="popmake-1524" class="pum-container popmake theme-1518 pum-responsive pum-responsive-medium responsive size-medium">
+
+
+
+
+
+
+
+            <div class="pum-content popmake-content">
+                <p>
+                    <a href="#"><img class="wp-image-1563 size-full aligncenter" src="../wp-content/uploads/2020/06/popup.png" alt="" width="60%" height="auto" srcset="crecermed.com/wp-content/uploads/2020/06/popup.png 630w, https://crecermed.com/wp-content/uploads/2020/06/popup-261x300.png 261w"
+                            sizes="(max-width: 630px) 100vw, 630px" /></a>
+                </p>
+            </div>
+
+
+
+
+            <button type="button" class="pum-close popmake-close" aria-label="Cerrar">
+			CERRAR            </button>
+
+        </div>
+
+    </div>
+    <link rel='stylesheet' id='so-css-petcare-css' href='../wp-content/uploads/so-css/so-css-petcarebe28.css?ver=1507673576' type='text/css' media='all' />
+    <link rel='stylesheet' id='vc_carousel_css-css' href='../wp-content/plugins/js_composer/assets/lib/vc_carousel/css/vc_carousel.min40df.css?ver=5.6' type='text/css' media='all' />
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var wpcf7 = {
+            "apiSettings": {
+                "root": "https:\/\/crecermed.com\/wp-json\/contact-form-7\/v1",
+                "namespace": "contact-form-7\/v1"
+            }
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/scriptsb62d.js?ver=5.1.6'></script>
+    <script type='text/javascript' src='../wp-content/plugins/wp-spam-fighter/javascript/wp-spamfighterd633.js?ver=0.5.1'></script>
+    <script type='text/javascript'>
+        var renderInvisibleReCaptcha = function() {
+
+            for (var i = 0; i < document.forms.length; ++i) {
+                var form = document.forms[i];
+                var holder = form.querySelector('.inv-recaptcha-holder');
+
+                if (null === holder) continue;
+                holder.innerHTML = '';
+
+                (function(frm) {
+                    var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+                    var holderId = grecaptcha.render(holder, {
+                        'sitekey': '6Lek3dEUAAAAAKB_SGfFtLbfGu6xTLSuEgS4mMnq',
+                        'size': 'invisible',
+                        'badge': 'inline',
+                        'callback': function(recaptchaToken) {
+                            if ((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')) {
+                                jQuery(frm).submit();
+                                grecaptcha.reset(holderId);
+                                return;
+                            }
+                            HTMLFormElement.prototype.submit.call(frm);
+                        },
+                        'expired-callback': function() {
+                            grecaptcha.reset(holderId);
+                        }
+                    });
+
+                    if (null !== cf7SubmitElm && (typeof jQuery != 'undefined')) {
+                        jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt) {
+                            clickEvt.preventDefault();
+                            grecaptcha.execute(holderId);
+                        });
+                    } else {
+                        frm.onsubmit = function(evt) {
+                            evt.preventDefault();
+                            grecaptcha.execute(holderId);
+                        };
+                    }
+
+
+                })(form);
+            }
+        };
+    </script>
+    <script type='text/javascript' async defer src='../../www.google.com/recaptcha/api89ae.js?onload=renderInvisibleReCaptcha&amp;render=explicit'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/bootstrap.min.js'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/bootstrap-wp.js'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/jquery.counterup.min.js'></script>
+    <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min40df.js?ver=5.6'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/owl.carousel.min.js'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/jquery.nanoscroller.min.js'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/lightbox.min.js'></script>
+    <script type='text/javascript' src='../wp-content/themes/petcare/js/custom.js'></script>
+    <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='../wp-includes/js/jquery/ui/position.mine899.js?ver=1.11.4'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var pum_vars = {
+            "version": "1.10.2",
+            "pm_dir_url": "https:\/\/crecermed.com\/wp-content\/plugins\/popup-maker\/",
+            "ajaxurl": "https:\/\/crecermed.com\/wp-admin\/admin-ajax.php",
+            "restapi": "https:\/\/crecermed.com\/wp-json\/pum\/v1",
+            "rest_nonce": null,
+            "default_theme": "1518",
+            "debug_mode": "",
+            "disable_tracking": "",
+            "home_url": "\/",
+            "message_position": "top",
+            "core_sub_forms_enabled": "1",
+            "popups": []
+        };
+        var ajaxurl = "index.html\/\/crecermed.com\/wp-admin\/admin-ajax.php";
+        var pum_sub_vars = {
+            "ajaxurl": "https:\/\/crecermed.com\/wp-admin\/admin-ajax.php",
+            "message_position": "top"
+        };
+        var pum_popups = {
+            "pum-1524": {
+                "disable_on_mobile": false,
+                "disable_on_tablet": false,
+                "custom_height_auto": false,
+                "scrollable_content": false,
+                "position_from_trigger": false,
+                "position_fixed": false,
+                "overlay_disabled": false,
+                "stackable": false,
+                "disable_reposition": false,
+                "close_on_form_submission": false,
+                "close_on_overlay_click": true,
+                "close_on_esc_press": true,
+                "close_on_f4_press": false,
+                "disable_form_reopen": false,
+                "disable_accessibility": false,
+                "triggers": [{
+                    "type": "auto_open",
+                    "settings": {
+                        "cookie_name": ["pum-1524"],
+                        "delay": "3000"
+                    }
+                }],
+                "cookies": [{
+                    "event": "on_popup_close",
+                    "settings": {
+                        "name": "pum-1524",
+                        "key": "",
+                        "session": false,
+                        "time": "1 day",
+                        "path": true
+                    }
+                }],
+                "theme_id": "1518",
+                "size": "medium",
+                "responsive_min_width": "0%",
+                "responsive_max_width": "100%",
+                "custom_width": "640px",
+                "custom_height": "380px",
+                "animation_type": "fade",
+                "animation_speed": "350",
+                "animation_origin": "center top",
+                "open_sound": "none",
+                "custom_sound": "",
+                "location": "center",
+                "position_top": "100",
+                "position_bottom": "0",
+                "position_left": "0",
+                "position_right": "0",
+                "zindex": "1999999999",
+                "close_button_delay": "0",
+                "close_on_form_submission_delay": "0",
+                "theme_slug": "tema-por-defecto",
+                "id": 1524,
+                "slug": "home"
+            }
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='../wp-content/uploads/pum/pum-site-scripts9223.js?defer&amp;generated=1592662267&amp;ver=1.10.2'></script>
+    <script type='text/javascript' src='../wp-includes/js/wp-embed.min6e7a.js?ver=5.2.7'></script>
+    <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min40df.js?ver=5.6'></script>
+    <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/lib/vc_carousel/js/transition.min40df.js?ver=5.6'></script>
+    <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/lib/vc_carousel/js/vc_carousel.min40df.js?ver=5.6'></script>
+
+</body>
+
+<!-- Mirrored from crecermed.com/nosotros/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 21 Jul 2020 00:02:36 GMT -->
+
+</html>
